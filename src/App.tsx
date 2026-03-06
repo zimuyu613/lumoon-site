@@ -16,6 +16,7 @@ export default function App() {
       <main className="main">
         <section className="hero" id="home">
        <h1>用 React + TypeScript 做一个正式网站</h1>
+       <p>deploy key test</p>
        <p>TEST-123456</p>
        <p>从本地开发 → 打包 → 上传到阿里云 ECS → 域名上线。</p>
        <div className="actions">
@@ -23,7 +24,7 @@ export default function App() {
             <button className="ghost">联系我</button>
           </div>
         </section>
-
+git status
         <section className="section" id="projects">
           <h2>项目</h2>
           <div className="grid">
