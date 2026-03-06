@@ -15,9 +15,10 @@ export default function App() {
 
       <main className="main">
         <section className="hero" id="home">
-          <h1>用 React + TypeScript 做一个正式网站</h1>
-          <p>从本地开发 → 打包 → 上传到阿里云 ECS → 域名上线。</p>
-          <div className="actions">
+       <h1>用 React + TypeScript 做一个正式网站</h1>
+       <p>TEST-123456</p>
+       <p>从本地开发 → 打包 → 上传到阿里云 ECS → 域名上线。</p>
+       <div className="actions">
             <button className="primary">查看项目</button>
             <button className="ghost">联系我</button>
           </div>
